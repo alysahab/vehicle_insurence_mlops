@@ -305,4 +305,4 @@ Now visit:
 ---
 
 ⭐ **If you like this project, give it a star!**
-📌 *Contributions, issues, and feature requests are welcome!*
+📌 *Contributions, issues, and feature requests are welcome*
